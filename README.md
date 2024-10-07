@@ -4,13 +4,13 @@
  Description
 This project is a simple calculator application built using React. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The app features a user-friendly interface styled with CSS to provide an intuitive experience.
 
- Features
+# Features
 
 - Addition, subtraction, multiplication, and division operations.
 - Real-time input and result display.
 - Responsive and user-friendly UI design.
 
- Implementation
+# Implementation
 
 1. React Components:  
    The calculator is divided into React components, including buttons for numbers and operations, and a display for the input/output.
