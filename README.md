@@ -1,7 +1,8 @@
 # MainFlow internship task 5
 # Basic Calculator Application
 
- Description
+## Description
+
 This project is a simple calculator application built using React. It performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The app features a user-friendly interface styled with CSS to provide an intuitive experience.
 
 # Features
